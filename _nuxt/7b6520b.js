@@ -296,7 +296,7 @@
             }],
             src: r.p + "img/slabfish_and_yak.png",
             toString: function() {
-                return r.p + "img/slabfish_and_yak.pngp"
+                return r.p + "img/slabfish_and_yak.png"
             },
             width: 512,
             height: 330
@@ -643,4 +643,5 @@
         })
     }
 }]);
+
 
