@@ -288,15 +288,15 @@
     },
     346: function(t, e, r) {
         t.exports = {
-            srcSet: r.p + "img/6f3a1e0-512.webp 512w",
+            srcSet: r.p + "img/slabfish_and_yak.png 512w",
             images: [{
-                path: r.p + "img/6f3a1e0-512.webp",
+                path: r.p + "img/slabfish_and_yak.png",
                 width: 512,
                 height: 330
             }],
-            src: r.p + "img/6f3a1e0-512.webp",
+            src: r.p + "img/slabfish_and_yak.png",
             toString: function() {
-                return r.p + "img/6f3a1e0-512.webp"
+                return r.p + "img/slabfish_and_yak.pngp"
             },
             width: 512,
             height: 330
@@ -478,15 +478,15 @@
     },
     365: function(t, e, r) {
         t.exports = {
-            srcSet: r.p + "img/e9888e8-472.webp 472w",
+            srcSet: r.p + "img/our_goals.png 472w",
             images: [{
-                path: r.p + "img/e9888e8-472.webp",
+                path: r.p + "img/our_goals.png",
                 width: 472,
                 height: 407
             }],
-            src: r.p + "img/e9888e8-472.webp",
+            src: r.p + "img/our_goals.png",
             toString: function() {
-                return r.p + "img/e9888e8-472.webp"
+                return r.p + "img/our_goals.png"
             },
             width: 472,
             height: 407
@@ -494,15 +494,15 @@
     },
     366: function(t, e, r) {
         t.exports = {
-            srcSet: r.p + "img/431515a-472.webp 472w",
+            srcSet: r.p + "img/expectations.png 472w",
             images: [{
-                path: r.p + "img/431515a-472.webp",
+                path: r.p + "img/expectations.png",
                 width: 472,
                 height: 319
             }],
-            src: r.p + "img/431515a-472.webp",
+            src: r.p + "img/expectations.png",
             toString: function() {
-                return r.p + "img/431515a-472.webp"
+                return r.p + "img/expectations.png"
             },
             width: 472,
             height: 319
@@ -510,15 +510,15 @@
     },
     367: function(t, e, r) {
         t.exports = {
-            srcSet: r.p + "img/5122952-472.webp 472w",
+            srcSet: r.p + "img/find_out_more.png 472w",
             images: [{
-                path: r.p + "img/5122952-472.webp",
+                path: r.p + "img/find_out_more.png",
                 width: 472,
                 height: 393
             }],
-            src: r.p + "img/5122952-472.webp",
+            src: r.p + "img/find_out_more.png",
             toString: function() {
-                return r.p + "img/5122952-472.webp"
+                return r.p + "img/find_out_more.png"
             },
             width: 472,
             height: 393
@@ -623,7 +623,7 @@
                 staticClass: "section",
                 attrs: {
                     flip: !1,
-                    link: "https://www.teamabnormals.com/discord",
+                    link: "https://azonix-team.github.io/discord",
                     linkText: "Join our Discord!",
                     description: "If you want to learn more information about each mod, join our Discord server down below!",
                     heading: "Find Out More",
@@ -643,3 +643,4 @@
         })
     }
 }]);
+
