@@ -453,7 +453,7 @@
                 staticClass: "text-3xl font-bold text-white mb-2"
             }, [t._v("Welcome to Team Azonix!")]), t._v(" "), e("p", {
                 staticClass: "text-white text-xl"
-            }, [t._v("We are a small modding team focused on creating mods with quality art and\n\t\t\t\t\tdesign for Minecraft Java Edition.")]), t._v(" "), e("br"), t._v(" "), e("nuxt-link", {
+            }, [t._v("We are a small modding team focused on creating mods with quality art and\n\t\t\t\t\tdesign for both Minecraft Editions.")]), t._v(" "), e("br"), t._v(" "), e("nuxt-link", {
                 staticClass: "text-white text-sm font-bold uppercase tracking-wider hover:opacity-80 transition ease-in-out",
                 attrs: {
                     to: "/blog/welcome"
