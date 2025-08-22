@@ -494,15 +494,15 @@
     },
     366: function(t, e, r) {
         t.exports = {
-            srcSet: r.p + "img/expectations.png 472w",
+            srcSet: r.p + "img/spitters_and_quadmaws.png 472w",
             images: [{
-                path: r.p + "img/expectations.png",
+                path: r.p + "img/spitters_and_quadmaws.png",
                 width: 472,
                 height: 319
             }],
-            src: r.p + "img/expectations.png",
+            src: r.p + "img/spitters_and_quadmaws.png",
             toString: function() {
-                return r.p + "img/expectations.png"
+                return r.p + "img/spitters_and_quadmaws.png"
             },
             width: 472,
             height: 319
