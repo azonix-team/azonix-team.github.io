@@ -179,7 +179,7 @@
             return i[1]
         }
         ));
-        n.push([t.i, ".header-img{border-color:#537db5;border-width:4px}.dark .header-img{border-color:#384681}", ""]),
+        n.push([t.i, ".header-img{border-color:#6353b5;border-width:4px}.dark .header-img{border-color:#423881}", ""]),
         n.locals = {},
         t.exports = n
     },
@@ -227,32 +227,32 @@
             head: function() {
                 if (this.page)
                     return {
-                        title: this.page.title + " — Team Abnormals",
+                        title: this.page.title + " — Team Azonix",
                         meta: [{
                             property: "og:title",
-                            content: this.page.title + " — Team Abnormals"
+                            content: this.page.title + " — Team Azonix"
                         }, {
                             property: "twitter:title",
-                            content: this.page.title + " — Team Abnormals"
+                            content: this.page.title + " — Team Azonix"
                         }, {
                             hid: "description",
                             name: "description",
-                            content: this.page.tagline ? this.page.tagline : "Welcome to Team Abnormals! We are a small modding team focused on creating mods with quality art and design for Minecraft Java Edition."
+                            content: this.page.tagline ? this.page.tagline : "Welcome to Team Azonix! We are a small modding team focused on creating mods with quality art and design for both Minecraft Editions."
                         }, {
                             property: "og:description",
-                            content: this.page.tagline ? this.page.tagline : "Welcome to Team Abnormals! We are a small modding team focused on creating mods with quality art and design for Minecraft Java Edition."
+                            content: this.page.tagline ? this.page.tagline : "Welcome to Team Azonix! We are a small modding team focused on creating mods with quality art and design for both Minecraft Editions."
                         }, {
                             property: "twitter:description",
-                            content: "Welcome to Team Abnormals! We are a small modding team focused on creating mods with quality art and design for Minecraft Java Edition."
+                            content: "Welcome to Team Azonix! We are a small modding team focused on creating mods with quality art and design for both Minecraft Editions."
                         }, {
                             property: "og:url",
-                            content: "https://www.teamabnormals.com/blog/" + this.page.slug
+                            content: "https://azonix-team.github.io/blog/" + this.page.slug
                         }, {
                             property: "og:image",
                             content: this.page.thumbnail
                         }, {
                             property: "twitter:url",
-                            content: "https://www.teamabnormals.com/blog/" + this.page.slug
+                            content: "https://azonix-team.github.io/blog/" + this.page.slug
                         }, {
                             property: "twitter:image",
                             content: this.page.thumbnail
