@@ -595,13 +595,13 @@
             },
             head: function() {
                 return {
-                    title: "Mods — Team Abnormals",
+                    title: "Mods — Team Azonix",
                     meta: [{
                         property: "og:title",
-                        content: "Mods — Team Abnormals"
+                        content: "Mods — Team Azonix"
                     }, {
                         property: "twitter:title",
-                        content: "Mods — Team Abnormals"
+                        content: "Mods — Team Azonix"
                     }, {
                         property: "og:url",
                         content: "https://www.teamabnormals.com/mods"
