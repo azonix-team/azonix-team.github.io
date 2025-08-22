@@ -314,13 +314,13 @@
             },
             head: function() {
                 return {
-                    title: "Blog — Team Abnormals",
+                    title: "Blog — Team Azonix",
                     meta: [{
                         property: "og:title",
-                        content: "Blog — Team Abnormals"
+                        content: "Blog — Team Azonix"
                     }, {
                         property: "twitter:title",
-                        content: "Blog — Team Abnormals"
+                        content: "Blog — Team Azonix"
                     }, {
                         property: "og:url",
                         content: "https://www.teamabnormals.com/blog"
