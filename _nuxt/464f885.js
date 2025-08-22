@@ -99,7 +99,7 @@
             })], 1), t._v(" "), o("a", {
                 staticClass: "m-3 hover:opacity-80 transition ease-in-out",
                 attrs: {
-                    href: "https://twitter.com/TeamAbnormals"
+                    href: "https://twitter.com/TeamAzonix"
                 }
             }, [o("font-awesome-icon", {
                 staticClass: "fa-lg",
@@ -119,7 +119,7 @@
             })], 1), t._v(" "), o("a", {
                 staticClass: "m-3 hover:opacity-80 transition ease-in-out",
                 attrs: {
-                    href: "https://twitch.tv/TeamAbnormals"
+                    href: "https://twitch.tv/TeamAzonix"
                 }
             }, [o("font-awesome-icon", {
                 staticClass: "fa-lg",
@@ -137,9 +137,9 @@
                 staticClass: "container mx-auto flex items-center justify-between p-3 py-6"
             }, [o("div", [o("h1", {
                 staticClass: "text-white font-medium"
-            }, [t._v("Copyright 2021 © Team Abnormals")]), t._v(" "), o("p", {
+            }, [t._v("Copyright 2021 © Team Azonix")]), t._v(" "), o("p", {
                 staticClass: "text-gray-300"
-            }, [t._v("Team Abnormals is not affiliated with or endorsed by Mojang Studios or Microsoft")])])])])
+            }, [t._v("Team Azonix is not affiliated with or endorsed by Mojang Studios or Microsoft")])])])])
         }
         ], !1, null, null, null);
         o.default = component.exports;
@@ -310,7 +310,7 @@
                 staticClass: "h-6 md:h-12 m-6 md:mx-6",
                 attrs: {
                     src: r(292),
-                    alt: "Abnormals Logo",
+                    alt: "Azonix Logo",
                     width: "295",
                     height: "48"
                 }
@@ -361,13 +361,13 @@
             layout: "default",
             head: function() {
                 return {
-                    title: this.error.statusCode + " — Team Abnormals",
+                    title: this.error.statusCode + " — Team Azonix",
                     meta: [{
                         property: "og:title",
-                        content: this.error.statusCode + " — Team Abnormals"
+                        content: this.error.statusCode + " — Team Azonix"
                     }, {
                         property: "twitter:title",
-                        content: this.error.statusCode + " — Team Abnormals"
+                        content: this.error.statusCode + " — Team Azonix"
                     }]
                 }
             }
