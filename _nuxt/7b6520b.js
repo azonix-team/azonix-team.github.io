@@ -623,7 +623,7 @@
                 staticClass: "section",
                 attrs: {
                     flip: !1,
-                    link: "https://azonix-team.github.io/discord",
+                    link: "https://discord.gg/PA7R3aCtaa",
                     linkText: "Join our Discord!",
                     description: "If you want to learn more information about each mod, join our Discord server down below!",
                     heading: "Find Out More",
@@ -643,3 +643,4 @@
         })
     }
 }]);
+
