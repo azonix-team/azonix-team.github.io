@@ -288,15 +288,15 @@
     },
     346: function(t, e, r) {
         t.exports = {
-            srcSet: r.p + "img/slabfish_and_yak.png 512w",
+            srcSet: r.p + "img/staring_rampipod.png 512w",
             images: [{
-                path: r.p + "img/slabfish_and_yak.png",
+                path: r.p + "img/staring_rampipod.png",
                 width: 512,
                 height: 330
             }],
-            src: r.p + "img/slabfish_and_yak.png",
+            src: r.p + "img/staring_rampipod.png",
             toString: function() {
-                return r.p + "img/slabfish_and_yak.png"
+                return r.p + "img/staring_rampipod.png"
             },
             width: 512,
             height: 330
@@ -467,7 +467,7 @@
                 staticClass: "mt-24 px-3 lg:px-0 md:mt-auto",
                 attrs: {
                     src: r(346),
-                    alt: "Slabfish and Yak",
+                    alt: "Staring Rampipod",
                     width: "512",
                     height: "330"
                 }
@@ -643,5 +643,6 @@
         })
     }
 }]);
+
 
 
