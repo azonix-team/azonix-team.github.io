@@ -323,10 +323,10 @@
                         content: "Blog — Team Azonix"
                     }, {
                         property: "og:url",
-                        content: "https://www.teamabnormals.com/blog"
+                        content: "https://azonix-team.github.io/blog"
                     }, {
                         property: "twitter:url",
-                        content: "https://www.teamabnormals.com/blog"
+                        content: "https://azonix-team.github.io/blog"
                     }]
                 }
             }
