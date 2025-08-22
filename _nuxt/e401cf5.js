@@ -20626,13 +20626,13 @@
                                         content: "Team Abnormals"
                                     }, {
                                         name: "msapplication-TileColor",
-                                        content: "#2d5993"
+                                        content: "#4a2d80"
                                     }, {
                                         name: "msapplication-config",
                                         content: "img/favicon/browserconfig.xml"
                                     }, {
                                         name: "theme-color",
-                                        content: "#2d5993"
+                                        content: "#4a2d80"
                                     }, {
                                         property: "og:type",
                                         content: "website"
@@ -20687,7 +20687,7 @@
                                         href: "img/favicon/site.webmanifest"
                                     }, {
                                         rel: "mask-icon",
-                                        color: "#2d5993",
+                                        color: "#4a2d80",
                                         href: "img/favicon/safari-pinned-tab.svg"
                                     }, {
                                         rel: "shortcut icon",
