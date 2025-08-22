@@ -69,7 +69,7 @@
             })], 1)]), t._v(" "), o("div", [o("a", {
                 staticClass: "m-3 hover:opacity-80 transition ease-in-out",
                 attrs: {
-                    href: "https://www.teamabnormals.com/discord"
+                    href: "https://discord.gg/PA7R3aCtaa"
                 }
             }, [o("font-awesome-icon", {
                 staticClass: "fa-lg",
@@ -79,7 +79,7 @@
             })], 1), t._v(" "), o("a", {
                 staticClass: "m-3 hover:opacity-80 transition ease-in-out",
                 attrs: {
-                    href: "https://github.com/team-abnormals"
+                    href: "https://github.com/azonix-team"
                 }
             }, [o("font-awesome-icon", {
                 staticClass: "fa-lg",
@@ -89,7 +89,7 @@
             })], 1), t._v(" "), o("a", {
                 staticClass: "m-3 hover:opacity-80 transition ease-in-out",
                 attrs: {
-                    href: "https://patreon.com/teamabnormals"
+                    href: "https://patreon.com/teamazonix"
                 }
             }, [o("font-awesome-icon", {
                 staticClass: "fa-lg",
@@ -99,7 +99,7 @@
             })], 1), t._v(" "), o("a", {
                 staticClass: "m-3 hover:opacity-80 transition ease-in-out",
                 attrs: {
-                    href: "https://twitter.com/TeamAzonix"
+                    href: "https://twitter.com/AzonixTeam"
                 }
             }, [o("font-awesome-icon", {
                 staticClass: "fa-lg",
@@ -109,7 +109,7 @@
             })], 1), t._v(" "), o("a", {
                 staticClass: "m-3 hover:opacity-80 transition ease-in-out",
                 attrs: {
-                    href: "https://www.youtube.com/channel/UCazZwfmCwwDOIYQj32d36Dw"
+                    href: "https://www.youtube.com/@TeamAzonix"
                 }
             }, [o("font-awesome-icon", {
                 staticClass: "fa-lg",
@@ -137,7 +137,7 @@
                 staticClass: "container mx-auto flex items-center justify-between p-3 py-6"
             }, [o("div", [o("h1", {
                 staticClass: "text-white font-medium"
-            }, [t._v("Copyright 2021 © Team Azonix")]), t._v(" "), o("p", {
+            }, [t._v("Copyright 2025 © Team Azonix")]), t._v(" "), o("p", {
                 staticClass: "text-gray-300"
             }, [t._v("Team Azonix is not affiliated with or endorsed by Mojang Studios or Microsoft")])])])])
         }
@@ -413,3 +413,4 @@
         o.a = component.exports
     }
 }, [[220, 12, 2, 13]]]);
+
