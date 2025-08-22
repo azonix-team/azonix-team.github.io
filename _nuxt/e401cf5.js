@@ -20602,7 +20602,7 @@
                             return l = c.sent,
                             o = Vx({
                                 head: {
-                                    title: "Team Abnormals",
+                                    title: "Team Azonix",
                                     htmlAttrs: {
                                         lang: "en"
                                     },
@@ -20614,16 +20614,16 @@
                                     }, {
                                         hid: "description",
                                         name: "description",
-                                        content: "Welcome to Team Abnormals! We are a small modding team focused on creating mods with quality art and design for both Minecraft Editions."
+                                        content: "Welcome to Team Azonix! We are a small modding team focused on creating mods with quality art and design for both Minecraft Editions."
                                     }, {
                                         name: "format-detection",
                                         content: "telephone=no"
                                     }, {
                                         name: "apple-mobile-web-app-title",
-                                        content: "Team Abnormals"
+                                        content: "Team Azonix"
                                     }, {
                                         name: "application-name",
-                                        content: "Team Abnormals"
+                                        content: "Team Azonix"
                                     }, {
                                         name: "msapplication-TileColor",
                                         content: "#4a2d80"
@@ -20638,19 +20638,19 @@
                                         content: "website"
                                     }, {
                                         property: "og:title",
-                                        content: "Team Abnormals"
+                                        content: "Team Azonix"
                                     }, {
                                         property: "og:url",
                                         content: "https://www.teamabnormals.com"
                                     }, {
                                         property: "og:description",
-                                        content: "Welcome to Team Abnormals! We are a small modding team focused on creating mods with quality art and design for both Minecraft Editions."
+                                        content: "Welcome to Team Azonix! We are a small modding team focused on creating mods with quality art and design for both Minecraft Editions."
                                     }, {
                                         property: "og:image",
                                         content: "https://www.teamabnormals.com/img/banner.png"
                                     }, {
                                         property: "twitter:title",
-                                        content: "Team Abnormals"
+                                        content: "Team Azonix"
                                     }, {
                                         property: "twitter:card",
                                         content: "summary_large_image"
@@ -20662,7 +20662,7 @@
                                         content: "https://www.teamabnormals.com"
                                     }, {
                                         property: "twitter:description",
-                                        content: "Welcome to Team Abnormals! We are a small modding team focused on creating mods with quality art and design for both Minecraft Editions."
+                                        content: "Welcome to Team Azonix! We are a small modding team focused on creating mods with quality art and design for both Minecraft Editions."
                                     }, {
                                         property: "twitter:image",
                                         content: "https://www.teamabnormals.com/img/banner.png"
